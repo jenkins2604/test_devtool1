@@ -11,7 +11,7 @@ int
 main (void)
 {
 	/* a meaningful comment */
-	printf("Hello, world!\n");
+	printf("Hello, World  second time!\n");
 	printf("version: %s\n", VERSION);
 	lib_function();
 
